@@ -1,4 +1,4 @@
-### **<div align="center">Welcome to my GitHub profile friends, I'm just starting my higher degree as a web developer, I hope this page becomes a great page with all my projects and achievements.</div>**  
+### **<div align="center">Welcome to my GitHub profile friends, I'm just starting my higher degree as a <p style="color: pink;">web developer</p>, I hope this page becomes a great page with all my projects and achievements.</div>**  
   
 
 <div align="center">
